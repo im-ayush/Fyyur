@@ -1,6 +1,23 @@
 # Fyyur - Artist Booking SIte | Udacity
 -----
 
+- **Home**
+![Home Page](https://github.com/im-ayush/Fyyur/blob/master/project-screenshots/home.PNG)
+
+- **Shows**
+![Shows](https://github.com/im-ayush/Fyyur/blob/master/project-screenshots/shows.PNG)
+
+- **Artists**
+![Artists](https://github.com/im-ayush/Fyyur/blob/master/project-screenshots/artists.PNG)
+
+- **Venues**
+![Venues](https://github.com/im-ayush/Fyyur/blob/master/project-screenshots/venues.PNG)
+
+- **Artist Details**
+![Artist Details](https://github.com/im-ayush/Fyyur/blob/master/project-screenshots/artists-detail.PNG)
+
+- **Venue Details**
+![Venue Details](https://github.com/im-ayush/Fyyur/blob/master/project-screenshots/venues-detail.PNG)
 
 
 -----
