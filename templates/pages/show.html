@@ -1,0 +1,31 @@
+{% extends 'layouts/main.html' %}
+{% block title %}Fyyur | Show Search{% endblock %}
+{% block content %}
+<h3>Number of search results for "{{ search_term }}": {{ results.count }}</h3>
+    <div class="page-header">
+        <h1>Fyyur Search!</h1>
+    </div>
+    <p class="lead"> Show Search </p>
+
+    <ul class="nav nav-pills">
+        {% for show in results.data %}
+      	<li>
+      			<div class="item">
+              <a href="/venues/{{ show.venue_id }}">
+                <h5>{{ show.venue_name }}</h5>
+              </a>
+              <a href="/artists/{{ show.artist_id }}">
+                <h5>{{ show.artist_name}}</h5>
+              </a>
+              <div class="col-sm-6">
+                <img src="{{ show.artist_image_link }}"/>
+              </div>
+                <h5>{{ show.start_time }}</h5>
+      			</div>
+      	</li>
+      	{% endfor %}
+    </ul>
+
+{#    Todo implement show search frontend #}
+
+{% endblock %}
