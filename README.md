@@ -14,10 +14,10 @@
 ![Venues](https://github.com/im-ayush/Fyyur/blob/master/project-screenshots/venues.PNG)
 
 - **Artist Details**
-![Artist Details](https://github.com/im-ayush/Fyyur/blob/master/project-screenshots/artists-detail.PNG)
+![Artist Details](https://github.com/im-ayush/Fyyur/blob/master/project-screenshots/artists-detail.png)
 
 - **Venue Details**
-![Venue Details](https://github.com/im-ayush/Fyyur/blob/master/project-screenshots/venues-detail.PNG)
+![Venue Details](https://github.com/im-ayush/Fyyur/blob/master/project-screenshots/venues-detail.png)
 
 
 -----
